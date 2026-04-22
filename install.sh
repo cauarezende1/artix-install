@@ -4,7 +4,7 @@ set -e
 # ===== CONFIG =====
 
 USERNAME="user"
-PASSWORD="password"
+PASSWORD="1234"
 HOSTNAME="artix"
 TIMEZONE="America/Sao_Paulo"
 LOCALE="pt_BR.UTF-8"
